@@ -1,16 +1,14 @@
-## Hi there 👋
+```zsh
+> neofetch
+```
 
-<!--
-**vh1dzdev/vh1dzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://avatars.githubusercontent.com/u/207866245?v=4" alt="logo.png" width="170" /> 
 
-Here are some ideas to get you started:
+```cs
+vh1dzdev@github
+----------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+       OS:  Windows 11 / Kali Linux
+Languages:  Senior Python, Middle C++, Junior Go, Junior TypeScript
+ Telegram:  @worldadapter
+```
